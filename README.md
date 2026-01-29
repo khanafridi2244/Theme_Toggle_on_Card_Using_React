@@ -1,16 +1,61 @@
-# React + Vite
+# 🌗 Theme Toggle on Card Using React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Overview
 
-Currently, two official plugins are available:
+**Theme Toggle on Card Using React** is a simple React application that demonstrates how to implement **Light Mode and Dark Mode** functionality on a card component using React.  
+The project uses **Context API** to manage the theme globally and updates the UI instantly without page reloads.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Light Mode & Dark Mode toggle  
+- Card-based UI theme switching  
+- Global theme management using Context API  
+- Smooth UI transitions  
+- Responsive and clean design  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+- React.js  
+- React Context API  
+- JavaScript (ES6+)  
+- Tailwind CSS  
+- Vite  
+
+---
+
+## 🎯 How It Works
+
+1. User clicks the theme toggle button  
+2. Theme state switches between light and dark  
+3. Context API provides the theme globally  
+4. Card UI updates instantly  
+
+---
+
+## ▶️ Getting Started
+
+### Clone the repository
+```bash
+git clone https://github.com/your-username/Theme_Toggle_on_Card_Using_React.git
+```
+---
+
+## 📚 Learning Outcomes
+
+- Understanding theme toggling in React
+- Using Context API for global state management
+- Creating reusable components
+- Styling with Tailwind CSS
+
+## 📜 License
+
+- This project is licensed under the MIT License.
+
+## 👨‍💻 Author
+
+- Sikandar Afridi
+- GitHub: https://github.com/khanafridi2244
